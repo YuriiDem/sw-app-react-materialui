@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/sw-app-react-materialui/static/css/main.e0d27861.chunk.css",
-    "main.js": "/sw-app-react-materialui/static/js/main.7c855984.chunk.js",
-    "main.js.map": "/sw-app-react-materialui/static/js/main.7c855984.chunk.js.map",
-    "runtime-main.js": "/sw-app-react-materialui/static/js/runtime-main.6999173c.js",
-    "runtime-main.js.map": "/sw-app-react-materialui/static/js/runtime-main.6999173c.js.map",
-    "static/js/2.d5417663.chunk.js": "/sw-app-react-materialui/static/js/2.d5417663.chunk.js",
-    "static/js/2.d5417663.chunk.js.map": "/sw-app-react-materialui/static/js/2.d5417663.chunk.js.map",
-    "index.html": "/sw-app-react-materialui/index.html",
-    "static/css/main.e0d27861.chunk.css.map": "/sw-app-react-materialui/static/css/main.e0d27861.chunk.css.map",
-    "static/js/2.d5417663.chunk.js.LICENSE.txt": "/sw-app-react-materialui/static/js/2.d5417663.chunk.js.LICENSE.txt",
-    "static/media/404.be452182.jpg": "/sw-app-react-materialui/static/media/404.be452182.jpg",
-    "static/media/Home.f149fd4a.svg": "/sw-app-react-materialui/static/media/Home.f149fd4a.svg",
-    "static/media/Logo.f149fd4a.svg": "/sw-app-react-materialui/static/media/Logo.f149fd4a.svg",
-    "static/media/characters.4934eea4.jpg": "/sw-app-react-materialui/static/media/characters.4934eea4.jpg",
-    "static/media/charasters.2d71841b.svg": "/sw-app-react-materialui/static/media/charasters.2d71841b.svg",
-    "static/media/planets.9b36690e.svg": "/sw-app-react-materialui/static/media/planets.9b36690e.svg",
-    "static/media/planets.a9714e0e.png": "/sw-app-react-materialui/static/media/planets.a9714e0e.png",
-    "static/media/sadstormtrooper.471dbfb5.png": "/sw-app-react-materialui/static/media/sadstormtrooper.471dbfb5.png",
-    "static/media/spacies.666a68e8.svg": "/sw-app-react-materialui/static/media/spacies.666a68e8.svg",
-    "static/media/species.af42e9dd.jpg": "/sw-app-react-materialui/static/media/species.af42e9dd.jpg"
+    "main.css": "/static/css/main.e0d27861.chunk.css",
+    "main.js": "/static/js/main.1e385a5a.chunk.js",
+    "main.js.map": "/static/js/main.1e385a5a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.62d141e6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.62d141e6.js.map",
+    "static/js/2.4a6e54ff.chunk.js": "/static/js/2.4a6e54ff.chunk.js",
+    "static/js/2.4a6e54ff.chunk.js.map": "/static/js/2.4a6e54ff.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e0d27861.chunk.css.map": "/static/css/main.e0d27861.chunk.css.map",
+    "static/js/2.4a6e54ff.chunk.js.LICENSE.txt": "/static/js/2.4a6e54ff.chunk.js.LICENSE.txt",
+    "static/media/404.be452182.jpg": "/static/media/404.be452182.jpg",
+    "static/media/Home.f149fd4a.svg": "/static/media/Home.f149fd4a.svg",
+    "static/media/Logo.f149fd4a.svg": "/static/media/Logo.f149fd4a.svg",
+    "static/media/characters.4934eea4.jpg": "/static/media/characters.4934eea4.jpg",
+    "static/media/charasters.2d71841b.svg": "/static/media/charasters.2d71841b.svg",
+    "static/media/planets.9b36690e.svg": "/static/media/planets.9b36690e.svg",
+    "static/media/planets.a9714e0e.png": "/static/media/planets.a9714e0e.png",
+    "static/media/sadstormtrooper.471dbfb5.png": "/static/media/sadstormtrooper.471dbfb5.png",
+    "static/media/spacies.666a68e8.svg": "/static/media/spacies.666a68e8.svg",
+    "static/media/species.af42e9dd.jpg": "/static/media/species.af42e9dd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6999173c.js",
-    "static/js/2.d5417663.chunk.js",
+    "static/js/runtime-main.62d141e6.js",
+    "static/js/2.4a6e54ff.chunk.js",
     "static/css/main.e0d27861.chunk.css",
-    "static/js/main.7c855984.chunk.js"
+    "static/js/main.1e385a5a.chunk.js"
   ]
 }
