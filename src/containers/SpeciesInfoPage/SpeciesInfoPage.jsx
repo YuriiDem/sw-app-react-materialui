@@ -62,7 +62,7 @@ function SpeciesInfoPage({ match, setApiError }) {
     <GoBackLink />
       <Box mt={5} >
         <Paper elevation={5} classes={{ root: classes.card }} >
-          <Box component="div" display="flex" p={1} m={1} >
+          <Box component="div" display="flex" p={1} m={1} overflow="hidden" >
             <Grid container spacing={5} alignItems="center">
               <Grid item>
                 <Box >

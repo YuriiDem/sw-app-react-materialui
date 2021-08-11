@@ -5,7 +5,8 @@ import Grid from '@material-ui/core/Grid';
 const useStyles = makeStyles((theme) => ({
     img: {
 
-        height: '450px',
+        width: '100%',
+        height: '100%',
         padding: theme.spacing(4),
     },
 }));

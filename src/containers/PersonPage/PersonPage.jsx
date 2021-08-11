@@ -16,8 +16,8 @@ import Typography from '@material-ui/core/Typography';
 
 const useStyles = makeStyles({
   card: {
-   borderRadius: 18,
-  }
+    borderRadius: 18,
+  },
  });
 
 function PersonPage({ match, setApiError }) {
@@ -56,17 +56,17 @@ function PersonPage({ match, setApiError }) {
 
   return (
     <>
-    <GoBackLink />
-      <Box mt={10} mb={10} >
+      <GoBackLink />
+      <Box mt={10} mb={10}  >
         <Paper elevation={5} classes={{ root: classes.card }} >
-          <Box component="div" display="flex" p={1} m={1} >
+          <Box component="div" display="flex" p={1} m={1} overflow="hidden" >
             <Grid container spacing={5} alignItems="center">
-              <Grid item>
+              <Grid item >
                 <Box >
                   <PersonImage personImage={personImage} personName={personName} />
                 </Box>
               </Grid>
-              
+
               <Grid item >
                 <Box >
                   <Typography variant="h4"><strong>{personName}</strong></Typography>
