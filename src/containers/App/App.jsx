@@ -6,7 +6,7 @@ import routesConfig from "@routes/routesConfig";
 import { createTheme, ThemeProvider, makeStyles } from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Toolbar from '@material-ui/core/Toolbar';
-
+import { REPO_NAME } from '@constants/repo';
 
 
 
@@ -25,7 +25,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename={`/${REPO_NAME}/`}>
 
         <ThemeProvider theme={appliedTheme}>
           <CssBaseline />
