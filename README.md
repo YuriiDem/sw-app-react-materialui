@@ -1,6 +1,9 @@
-# UI/UX Design in Figma
+# :fire: UI/UX Design in Figma
 
 https://www.figma.com/file/I6FTreYUrV0CFhJ2vdMvHf/SWAPI-App-UI-UX?node-id=104%3A2
+
+# :fire: GitHub Pages
+https://yuriidem.github.io/sw-app-react-materialui/
 
 # Getting Started with Create React App
 
